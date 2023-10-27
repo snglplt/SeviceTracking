@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026253073134",
+    "project_id": "vibrentlog-9be72",
+    "storage_bucket": "vibrentlog-9be72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026253073134:android:61b0ff8c05c879635221ff",
+        "android_client_info": {
+          "package_name": "com.selpar.vibrentlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026253073134-krtc17739trr0hnrac07f6ehgro4q8nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5bSKYF1l5HsKYAV_nFvgQ6xsmHj0hq8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026253073134-krtc17739trr0hnrac07f6ehgro4q8nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
